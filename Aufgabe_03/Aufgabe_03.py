@@ -61,6 +61,10 @@ df['range'] = df['max'] - df['min']
 
 df['mean'] = df.iloc[:, 3:].mean(axis=1)
 
+# 3.1.1 Standardisierung der Werte
+
+std = (df['range'] - df['range'].mean()) / df['range'].std()
+
 # 3.2
 
 # Berechnung der Gesamtzahl an Touristen pro Jahr
