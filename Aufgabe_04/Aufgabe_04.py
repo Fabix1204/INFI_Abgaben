@@ -98,12 +98,3 @@ plt.show()
 # während im Bezirk Reutte (orange/rot) nur ein geringfügiger Anstieg zu sehen ist.
 # Der Unterschied in der Bevölkerungsgröße zwischen den Bezirken ist erheblich, wobei Innsbruck-Land
 # durchgehend dominiert. Die Prognosen setzen die Trends fort.
-
-
-
-
-
-
-
-
-
